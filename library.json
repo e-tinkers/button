@@ -1,0 +1,16 @@
+{
+  "name": "Simplest Button Debouncer",
+  "keywords": "button, debounce",
+  "description": "The simplest button debounce utility for Arduino",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-tinkers/button"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "Henry Cheung",
+    "url": "https://www.e-tinkers.com"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
