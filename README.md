@@ -28,3 +28,5 @@ void loop() {
 }
 ```
 
+Refer to my [blog](https://www.e-tinkers.com/2021/05/the-simplest-button-debounce-solution/) post on the explanation on how the debounce function actually work.
+
